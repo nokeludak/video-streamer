@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Prvi stream 1",
+      "description": "Proba 2",
+      "userId": "115650798492914871193",
+      "id": 1
+    },
+    {
+      "title": "React",
+      "description": "Terminal",
+      "userId": "115650798492914871193",
+      "id": 2
+    }
+  ]
+}
